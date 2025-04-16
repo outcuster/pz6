@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Tets](README.md)
+* [Топ ботов для пробива информации в телеграм](README.md)
 * [Test](test.md)
